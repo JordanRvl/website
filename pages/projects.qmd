@@ -1,0 +1,39 @@
+
+# Projects
+
+## Preprocessing ESM data 
+
+Whenever conducting Experience Sampling Method (ESM) study, the quality of the data is primordial.
+It has big implications for the quality of the statistical model fitted and the conclusions drawn based on it. 
+However, preprocessing ESM data is an important and tricky task, in addition to often not being reported. 
+With the purpose to provide help to researchers but also increasing transparency, we have developed a set of tools.
+**First, a step-by-step framework** introduced in [Revol et al. (in preparation)](...), help to cover and reflect on what needs to be checked and how to get information on the quality of the data at hand. 
+**Second, a website**, the [ESM preprocessing gallery](...) provides a comprehensive set of resources (R code, tutorials) for each step of the framework. 
+It has been made both for beginner and advanced R users would. 
+**Third, Rmarkdown templates to report** preprocessing and data quality can be found both on the website or as part of a [R package](https://gitlab.kuleuven.be/ppw-okpiv/researchers/u0148925/esmbooks) (instructions to download the package can be found in the link). 
+For further details, please refers to the article. 
+
+
+
+## Predictive accuracy analysis (PAA) for VAR(1) model
+
+Recently, the predictive stance has recently become popular among researchers in psychology. 
+This stance can be an assets in many ways such as predicting furtur outcomes (e.g., depression relapse) or providing insitful information for theory building.
+**Focusing on N=1 purpose and for the multivariate VAR(1) model, we propose to estimate the sample size requiered to optimize the probability to reach good predictive accuracy and, mainly, avoiding overfiting issues.**
+Along with the article, [Revol et al.(under review)](), we developed a shiny app to conduct the PAA (as well as power analysis) for the VAR(1) model. 
+The application is part of a [R package](https://gitlab.kuleuven.be/ppw-okpiv/researchers/u0148925/shinyapp-paa_var_n1) (instructions to download the package can be found in the link)
+
+
+
+# Workshops
+
+
+## Sample size planning for IL designs
+
+The sample size required for Intensive Longitudinal studies is often a question researchers have in mind when planning a study.
+**This workshop aimed to initiate participants to the sample size planning method for intensive longitudinal designs.**
+We first focused on VAR(1) and multilevel models (implemented through shiny apps). 
+A broader framework for simulation-based approaches as well as an optimization algorithm is also proposed as part of a R package. 
+This workshop has been created by [Ginette Lafit](https://ppw.kuleuven.be/okp/people/Ginette_Lafit/), [Mihai Constantin](https://mihaiconstantin.com/), [Eva Ceulemans](https://ppw.kuleuven.be/okp/team/Eva_Ceulemans/), and myself.
+Thanks to Mihai Constantin, **the materials (slides and exercises) can be found online:** [samplesize.help/](samplesize.help/)
+

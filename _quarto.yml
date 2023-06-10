@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: public
+
+website:
+  title: "Jordan Revol"
+  # site-url: "https://jrevol.com"
+  navbar:
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/projects.qmd
+        text: Projects
+      - href: pages/publications.qmd 
+        text: Publications
+      - href: pages/talks.qmd 
+        text: Talks
+
+format:
+  html:
+    embed-resources: false
+    theme: cosmo
+    css: www/styles.css
+    toc: true
+
+resources: 
+  - "www/talks/*.pdf"
+  - "www/publications/*.pdf"
+

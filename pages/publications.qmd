@@ -1,0 +1,14 @@
+---
+title: "Publications"
+---
+
+**First (or shared-first) author:**
+
+- Revol, J., Lafit, G., & Ceulemans, E. (2023). A new sample size planning approach for the (V) AR (1) model: Predictive Accuracy Analysis. [PDF](https://www.academia.edu/download/37285229/Jordans_Arab_Spring.pdf)
+- Lafit, G., Revol, J., Cloos, L., Kuppens, P., & Ceulemans, E. (2023). The effect of different operationalizations of affect and preprocessing choices on power-based sample size recommendations in intensive longitudinal research. [PDF](https://psyarxiv.com/7msh6/download?format=pdf)
+
+
+
+**Contributions: **
+
+- Blanchard, M. A., Revol, J., Hoebeke, Y., Roskam, I., Mikolajczak, M., & Heeren, A. (2023). On the temporal nature of parental burnout: Development of an experience sampling methodology (ESM) tool to assess parental burnout and its related ever-changing family context. Collabra: Psychology, 9(1), 74614. [PDF](https://psyarxiv.com/a95rh/download/?format=pdf)

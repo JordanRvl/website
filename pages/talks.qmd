@@ -1,0 +1,9 @@
+---
+title: "Talks"
+---
+
+These is a sample of talks with available ressources:
+
+- Preprocessing ESM data: ​A step-by-step framework, reporting templates, tutorials, and R code website​, presented at SAA 2023. <a href="../www/talks/SAA_Preprocessin_ESM_Jordan_Revol_Presentation.pdf" download="SAA_Preprocessin_ESM_Jordan_Revol_Presentation.pdf">Slides</a>. [Project](projects.qmd#preprocessing-esm-data)
+- Sample size planning using Predictive Accuracy Analysis For (V)AR(1) models in the context of N=1​, presented at IMPS 2022, ICPS 2023 and EAM 2023. <a href="../www/talks/EAM_PAA_jordan_revol_presentation.pdf" download="EAM_PAA_jordan_revol_presentation.pdf">Slides</a>. [Project](projects.qmd#predictive-accuracy-analysis-for-var1-model)
+

@@ -1,0 +1,24 @@
+---
+title: "Jordan Revol"
+
+about:
+    template: jolla
+    image: www/images/profil_picture.jpg
+    image-shape: round
+    links:
+        - icon: git 
+          href: https://gitlab.kuleuven.be/u0148925
+          aria-label: GitLab
+        - icon: twitter 
+          href: https://twitter.com/JordanRevol
+          aria-label: Twitter
+        - icon: linkedin 
+          href: https://www.linkedin.com/in/jordan-revol-378a3b15b/
+          aria-label: Linkedin
+---
+
+Hi, I am Jordan Revol. 
+I am currently a PhD student at KU Leuven in Belgium.
+My research lie in the development and the application of both statistical and data science tools for the research in psychology, focusing on Intensive Longitudinal designs. 
+In particular, 
+
