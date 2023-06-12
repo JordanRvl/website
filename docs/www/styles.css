@@ -37,7 +37,7 @@ footer.footer .nav-footer, #quarto-header > nav{
 }
 
 /* Picture */
-.about-image{
+div.quarto-about-trestles .about-entity .about-image {
     height: 15em !important;
     width: 15em !important;
-}
+  }

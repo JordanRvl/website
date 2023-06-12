@@ -7,6 +7,13 @@
     "text": "Hi, I am Jordan Revol.\nI am currently a PhD student at KU Leuven in Belgium. My research lie in the development and the application of both statistical and data science tools for the research in psychology, focusing on Intensive Longitudinal designs.\n\nKeywords\nSample size planning, predictive accuracy, data quality, intensive longitudinal studies, data science"
   },
   {
+    "objectID": "pages/papers.html",
+    "href": "pages/papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "First (or shared-first) author:\n\nRevol, J., Lafit, G., & Ceulemans, E. (2023). A new sample size planning approach for the (V) AR (1) model: Predictive Accuracy Analysis. PDF\nLafit, G., Revol, J., Cloos, L., Kuppens, P., & Ceulemans, E. (2023). The effect of different operationalizations of affect and preprocessing choices on power-based sample size recommendations in intensive longitudinal research. PDF\n\nContributions: \n\nBlanchard, M. A., Revol, J., Hoebeke, Y., Roskam, I., Mikolajczak, M., & Heeren, A. (2023). On the temporal nature of parental burnout: Development of an experience sampling methodology (ESM) tool to assess parental burnout and its related ever-changing family context. Collabra: Psychology, 9(1), 74614. PDF"
+  },
+  {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
     "title": "Projects",
@@ -21,11 +28,11 @@
     "text": "Whenever conducting Experience Sampling Method (ESM) study, the quality of the data is primordial. It has big implications for the quality of the statistical model fitted and the conclusions drawn based on it. However, preprocessing ESM data is an important and tricky task, in addition to often not being reported. With the purpose to provide help to researchers but also increasing transparency, we have developed a set of tools. First, a step-by-step framework introduced in Revol et al. (in preparation), help to cover and reflect on what needs to be checked and how to get information on the quality of the data at hand. Second, a website, the ESM preprocessing gallery provides a comprehensive set of resources (R code, tutorials) for each step of the framework. It has been made both for beginner and advanced R users would. Third, Rmarkdown templates to report preprocessing and data quality can be found both on the website or as part of a R package (instructions to download the package can be found in the link). For further details, please refers to the article."
   },
   {
-    "objectID": "pages/projects.html#predictive-accuracy-analysis-for-var1-model",
-    "href": "pages/projects.html#predictive-accuracy-analysis-for-var1-model",
+    "objectID": "pages/projects.html#predictive-accuracy-analysis-paa-for-var1-model",
+    "href": "pages/projects.html#predictive-accuracy-analysis-paa-for-var1-model",
     "title": "Projects",
     "section": "",
-    "text": "TODO"
+    "text": "Recently, the predictive stance has recently become popular among researchers in psychology. This stance can be an assets in many ways such as predicting furtur outcomes (e.g., depression relapse) or providing insitful information for theory building. Focusing on N=1 purpose and for the multivariate VAR(1) model, we propose to estimate the sample size requiered to optimize the probability to reach good predictive accuracy and, mainly, avoiding overfiting issues. Along with the article, Revol et al.(under review), we developed a shiny app to conduct the PAA (as well as power analysis) for the VAR(1) model. The application is part of a R package (instructions to download the package can be found in the link)"
   },
   {
     "objectID": "pages/projects.html#sample-size-planning-for-il-designs",
@@ -35,45 +42,10 @@
     "text": "Sample size planning for IL designs\nThe sample size required for Intensive Longitudinal studies is often a question researchers have in mind when planning a study. This workshop aimed to initiate participants to the sample size planning method for intensive longitudinal designs. We first focused on VAR(1) and multilevel models (implemented through shiny apps). A broader framework for simulation-based approaches as well as an optimization algorithm is also proposed as part of a R package. This workshop has been created by Ginette Lafit, Mihai Constantin, Eva Ceulemans, and myself. Thanks to Mihai Constantin, the materials (slides and exercises) can be found online: samplesize.help/"
   },
   {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "First (or shared-first) author:\n\nRevol, J., Lafit, G., & Ceulemans, E. (2023). A new sample size planning approach for the (V) AR (1) model: Predictive Accuracy Analysis. PDF\nLafit, G., Revol, J., Cloos, L., Kuppens, P., & Ceulemans, E. (2023). The effect of different operationalizations of affect and preprocessing choices on power-based sample size recommendations in intensive longitudinal research. PDF\n\nContributions: \n\nBlanchard, M. A., Revol, J., Hoebeke, Y., Roskam, I., Mikolajczak, M., & Heeren, A. (2023). On the temporal nature of parental burnout: Development of an experience sampling methodology (ESM) tool to assess parental burnout and its related ever-changing family context. Collabra: Psychology, 9(1), 74614. PDF"
-  },
-  {
     "objectID": "pages/talks.html",
     "href": "pages/talks.html",
     "title": "Talks",
     "section": "",
     "text": "These is a sample of talks with available ressources:\n\nPreprocessing ESM data: ​A step-by-step framework, reporting templates, tutorials, and R code website​, presented at SAA 2023. Slides. Project\nSample size planning using Predictive Accuracy Analysis For (V)AR(1) models in the context of N=1​, presented at IMPS 2022, ICPS 2023 and EAM 2023. Slides. Project"
-  },
-  {
-    "objectID": "pages/projects.html#predictive-accuracy-analysis-paa-for-var1-model",
-    "href": "pages/projects.html#predictive-accuracy-analysis-paa-for-var1-model",
-    "title": "Projects",
-    "section": "",
-    "text": "Recently, the predictive stance has recently become popular among researchers in psychology. This stance can be an assets in many ways such as predicting furtur outcomes (e.g., depression relapse) or providing insitful information for theory building. Focusing on N=1 purpose and for the multivariate VAR(1) model, we propose to estimate the sample size requiered to optimize the probability to reach good predictive accuracy and, mainly, avoiding overfiting issues. Along with the article, Revol et al.(under review), we developed a shiny app to conduct the PAA (as well as power analysis) for the VAR(1) model. The application is part of a R package (instructions to download the package can be found in the link)"
-  },
-  {
-    "objectID": "pages/papers.html",
-    "href": "pages/papers.html",
-    "title": "Publications",
-    "section": "",
-    "text": "First (or shared-first) author:\n\nRevol, J., Lafit, G., & Ceulemans, E. (2023). A new sample size planning approach for the (V) AR (1) model: Predictive Accuracy Analysis. PDF\nLafit, G., Revol, J., Cloos, L., Kuppens, P., & Ceulemans, E. (2023). The effect of different operationalizations of affect and preprocessing choices on power-based sample size recommendations in intensive longitudinal research. PDF\n\nContributions: \n\nBlanchard, M. A., Revol, J., Hoebeke, Y., Roskam, I., Mikolajczak, M., & Heeren, A. (2023). On the temporal nature of parental burnout: Development of an experience sampling methodology (ESM) tool to assess parental burnout and its related ever-changing family context. Collabra: Psychology, 9(1), 74614. PDF"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Jordan Revol   ",
-    "section": "Education",
-    "text": "Education\nKU Leuven, Leuven, BE PhD in Psychology | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#keywords",
-    "href": "index.html#keywords",
-    "title": "Jordan Revol   ",
-    "section": "Keywords",
-    "text": "Keywords\nSample size planning, predictive accuracy, data quality, intensive longitudinal studies"
   }
 ]
