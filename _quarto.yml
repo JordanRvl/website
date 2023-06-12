@@ -12,8 +12,8 @@ website:
         text: Home
       - href: pages/projects.qmd
         text: Projects
-      - href: pages/publications.qmd 
-        text: Publications
+      - href: pages/papers.qmd 
+        text: Papers
       - href: pages/talks.qmd 
         text: Talks
 
@@ -22,7 +22,7 @@ format:
     embed-resources: false
     theme: cosmo
     css: www/styles.css
-    toc: true
+    toc: false
 
 resources: 
   - "www/talks/*.pdf"

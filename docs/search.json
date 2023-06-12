@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jordan Revol",
+    "title": "Jordan Revol   ",
     "section": "",
-    "text": "Hi, I am Jordan Revol. I am currently a PhD student at KU Leuven in Belgium. My research lie in the development and the application of both statistical and data science tools for the research in psychology, focusing on Intensive Longitudinal designs. In particular,"
+    "text": "Hi, I am Jordan Revol.\nI am currently a PhD student at KU Leuven in Belgium. My research lie in the development and the application of both statistical and data science tools for the research in psychology, focusing on Intensive Longitudinal designs.\n\nKeywords\nSample size planning, predictive accuracy, data quality, intensive longitudinal studies, data science"
   },
   {
     "objectID": "pages/projects.html",
@@ -54,5 +54,26 @@
     "title": "Projects",
     "section": "",
     "text": "Recently, the predictive stance has recently become popular among researchers in psychology. This stance can be an assets in many ways such as predicting furtur outcomes (e.g., depression relapse) or providing insitful information for theory building. Focusing on N=1 purpose and for the multivariate VAR(1) model, we propose to estimate the sample size requiered to optimize the probability to reach good predictive accuracy and, mainly, avoiding overfiting issues. Along with the article, Revol et al.(under review), we developed a shiny app to conduct the PAA (as well as power analysis) for the VAR(1) model. The application is part of a R package (instructions to download the package can be found in the link)"
+  },
+  {
+    "objectID": "pages/papers.html",
+    "href": "pages/papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "First (or shared-first) author:\n\nRevol, J., Lafit, G., & Ceulemans, E. (2023). A new sample size planning approach for the (V) AR (1) model: Predictive Accuracy Analysis. PDF\nLafit, G., Revol, J., Cloos, L., Kuppens, P., & Ceulemans, E. (2023). The effect of different operationalizations of affect and preprocessing choices on power-based sample size recommendations in intensive longitudinal research. PDF\n\nContributions: \n\nBlanchard, M. A., Revol, J., Hoebeke, Y., Roskam, I., Mikolajczak, M., & Heeren, A. (2023). On the temporal nature of parental burnout: Development of an experience sampling methodology (ESM) tool to assess parental burnout and its related ever-changing family context. Collabra: Psychology, 9(1), 74614. PDF"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jordan Revol   ",
+    "section": "Education",
+    "text": "Education\nKU Leuven, Leuven, BE PhD in Psychology | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#keywords",
+    "href": "index.html#keywords",
+    "title": "Jordan Revol   ",
+    "section": "Keywords",
+    "text": "Keywords\nSample size planning, predictive accuracy, data quality, intensive longitudinal studies"
   }
 ]

@@ -1,8 +1,8 @@
 ---
-title: "Jordan Revol"
+title: "Jordan Revol <a href='mailto: jordan.revol@kuleuven.be'> {{< fa envelope title='An envelope' href='mail to: jordan.revol@kuleuven.be' size=tiny >}} </a>"
 
 about:
-    template: jolla
+    template: trestles
     image: www/images/profil_picture.jpg
     image-shape: round
     links:
@@ -17,8 +17,19 @@ about:
           aria-label: Linkedin
 ---
 
+
+
 Hi, I am Jordan Revol. 
+
 I am currently a PhD student at KU Leuven in Belgium.
 My research lie in the development and the application of both statistical and data science tools for the research in psychology, focusing on Intensive Longitudinal designs. 
-In particular, 
 
+### Keywords
+
+Sample size planning, predictive accuracy, data quality, intensive longitudinal studies, data science
+
+<!-- <a href="https://www.github.com" target="_blank"><i class="fa-brands fa-github"></i></a> -->
+<!-- <a href="https://gitlab.kuleuven.be/u0148925" target="_blank"><i class="fa-brands fa-gitlab"></i></a> -->
+<!-- <a href="https://orcid.org/0000-0001-5511-3617" target="_blank"><i class="fa-brands fa-orcid"></i></a>  -->
+<!-- <a href="https://www.linkedin.com/in/jordan-revol-378a3b15b/" target="_blank"><i class="fa-brands fa-twitter"></i></a>  -->
+<!-- <a href="https://www.twitter.com/JordanRevol" target="_blank"><i class="fa-brands fa-linkedin"></i></a> -->

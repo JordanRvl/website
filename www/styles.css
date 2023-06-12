@@ -35,3 +35,9 @@ footer.footer .nav-footer, #quarto-header > nav{
 .navbar-title{
     font-weight: bold;
 }
+
+/* Picture */
+.about-image{
+    height: 15em !important;
+    width: 15em !important;
+}
